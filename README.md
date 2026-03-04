@@ -8,13 +8,13 @@ This tool allows journalists, researchers, and the public to geographically expl
 ## The Underlying Data
 The application is powered by a "Censorship Spreadsheet" containing the operational metadata tracking the internal NPS review process (Tracking IDs, Park Codes, Flagged Issues, and Directives). 
 
-Accompanying the spreadsheet is a sprawling (7.6GB raw archive)[https://archive.org/details/nps-removal-targets] (`bird_teeth`) composed of thousands of PDFs, videos, and raw smartphone photography submitted by park staff documenting exhibits scheduled for removal or alteration (such as references to climate change, the Civil War, enslavement, or Native American perspectives).
+Accompanying the spreadsheet is a sprawling [7.6GB raw archive](https://archive.org/details/nps-removal-targets) composed of thousands of PDFs, videos, and raw smartphone photography submitted by park staff documenting exhibits scheduled for removal or alteration (such as references to climate change, the Civil War, enslavement, or Native American perspectives).
 
-The leaked database was first (reported by The Washington Post)[https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/] on March 2, 2026.
+The leaked database was first [reported by The Washington Post](https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/) on March 2, 2026.
 
 ## How it was Built
 
-The project was coded in (Google Antigravity)[https://antigravity.google] by Gemini Pro 3.1 (High). (Aaron Weiss)[https://github.com/aaronwe] oversaw the project.
+The project was coded in [Google Antigravity](https://antigravity.google) by Gemini Pro 3.1 (High). [Aaron Weiss](https://github.com/aaronwe) oversaw the project.
 
 ### 1. The Python Data Pipeline
 The backend of this project is a python extraction script (`prepare_data.py`) decoupled from the web application. 
