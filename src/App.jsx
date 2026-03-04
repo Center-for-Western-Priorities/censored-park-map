@@ -113,59 +113,62 @@ function App() {
               <p className="items-count"><strong>{selectedPark.items.length}</strong> items targeted for removal</p>
 
               <div className="items-list">
-                {selectedPark.items.map((item, idx) => (
-                  <div key={item.id} className="target-card">
-                    <div className="target-header">
-                      <span className="target-badge">ID: {item.id}</span>
-                      <span className={`status-badge ${item.status.toLowerCase().replace(' ', '-')}`}>
-                        {item.status}
-                      </span>
-                    </div>
+                {selectedPark.items.map((item, idx) => {
+                  const getRelativeUrl = (path) => path ? `${import.meta.env.BASE_URL}${path.startsWith('/') ? path.slice(1) : path}` : '';
+                  return (
+                    <div key={item.id} className="target-card">
+                      <div className="target-header">
+                        <span className="target-badge">ID: {item.id}</span>
+                        <span className={`status-badge ${item.status.toLowerCase().replace(' ', '-')}`}>
+                          {item.status}
+                        </span>
+                      </div>
 
-                    <div className="target-field">
-                      <h4>Issue</h4>
-                      <p>{item.issue}</p>
-                    </div>
-
-                    <div className="target-field">
-                      <h4>Action Required</h4>
-                      <p>{item.action}</p>
-                    </div>
-
-                    {item.filmProduced && item.filmProduced.toLowerCase() !== 'none' && (
                       <div className="target-field">
-                        <h4>Film Produced</h4>
-                        <p>{item.filmProduced}</p>
+                        <h4>Issue</h4>
+                        <p>{item.issue}</p>
                       </div>
-                    )}
 
-                    {item.publicationsProduced && item.publicationsProduced.toLowerCase() !== 'none' && (
                       <div className="target-field">
-                        <h4>Publications Produced</h4>
-                        <p>{item.publicationsProduced}</p>
+                        <h4>Action Required</h4>
+                        <p>{item.action}</p>
                       </div>
-                    )}
 
-                    {item.descriptionChanges && item.descriptionChanges.toLowerCase() !== 'none' && (
-                      <div className="target-field">
-                        <h4>Description Changes</h4>
-                        <p>{item.descriptionChanges}</p>
-                      </div>
-                    )}
+                      {item.filmProduced && item.filmProduced.toLowerCase() !== 'none' && (
+                        <div className="target-field">
+                          <h4>Film Produced</h4>
+                          <p>{item.filmProduced}</p>
+                        </div>
+                      )}
 
-                    {item.thumbnail && (
-                      <div className="thumbnail-container">
-                        <p className="thumbnail-label">Evidence Media</p>
-                        <a href={item.largeImage || item.thumbnail} target="_blank" rel="noopener noreferrer" className="thumbnail-link">
-                          <img src={item.thumbnail} alt={`Censored media ${item.id}`} />
-                          <div className="thumbnail-overlay">
-                            <ExternalLink size={24} color="white" />
-                          </div>
-                        </a>
-                      </div>
-                    )}
-                  </div>
-                ))}
+                      {item.publicationsProduced && item.publicationsProduced.toLowerCase() !== 'none' && (
+                        <div className="target-field">
+                          <h4>Publications Produced</h4>
+                          <p>{item.publicationsProduced}</p>
+                        </div>
+                      )}
+
+                      {item.descriptionChanges && item.descriptionChanges.toLowerCase() !== 'none' && (
+                        <div className="target-field">
+                          <h4>Description Changes</h4>
+                          <p>{item.descriptionChanges}</p>
+                        </div>
+                      )}
+
+                      {item.thumbnail && (
+                        <div className="thumbnail-container">
+                          <p className="thumbnail-label">Evidence Media</p>
+                          <a href={getRelativeUrl(item.largeImage || item.thumbnail)} target="_blank" rel="noopener noreferrer" className="thumbnail-link">
+                            <img src={getRelativeUrl(item.thumbnail)} alt={`Censored media ${item.id}`} />
+                            <div className="thumbnail-overlay">
+                              <ExternalLink size={24} color="white" />
+                            </div>
+                          </a>
+                        </div>
+                      )}
+                    </div>
+                  );
+                })}
               </div>
             </div>
           </aside>
