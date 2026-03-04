@@ -203,10 +203,10 @@ function App() {
                 In a sweeping effort to alter the narrative of American history and science, President Donald Trump's Executive Order 14253, "Restoring Truth and Sanity to American History," and Interior Secretary Doug Burgum's subsequent Secretarial Order 3431 have mandated the censorship of exhibits, signs, and publications across National Parks.
               </p>
               <p>
-                This administration-wide directive explicitly targets educational materials detailing the lived realities of slavery, the contributions of marginalized communities, and the scientific realities of climate change, branding them as "disparaging" to Americans.
+                This administration-wide directive explicitly targets educational materials detailing the lived experiences of enslaved people, the contributions of marginalized communities, and the scientific realities of climate change, branding them as "disparaging" to Americans.
               </p>
               <p>
-                This map documents the ongoing removal of these historical and scientific truths from our public lands, providing a permanent archive of the information they are trying to erase.
+                This map was created by the <a href="https://www.centerforwesternpriorities.org/" target="_blank" rel="noopener noreferrer">Center for Western Priorities</a> using <a href="https://archive.org/details/nps-removal-targets" target="_blank" rel="noopener noreferrer">data leaked from the National Park Service</a> in March 2026.
               </p>
               <div className="modal-footer">
                 <a href="https://www.washingtonpost.com/climate-environment/2026/03/02/national-parks-signs-censorship-slavery/" target="_blank" rel="noopener noreferrer" className="primary-btn">
