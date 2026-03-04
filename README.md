@@ -1,4 +1,4 @@
-# Doug Burgum's Censorship Map
+# Doug Burgum's National Park Censorship Map
 
 An interactive, responsive React application visualizing the sweeping impact of Department of the Interior Secretary Doug Burgum’s (Secretarial Order 3431)[https://www.whitehouse.gov/secretarial-orders/secretarial-order-3431/] (SO 3431) on National Park Service public exhibits, media, and visitor experiences.
 
