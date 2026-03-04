@@ -1,6 +1,6 @@
 # Doug Burgum's National Park Censorship Map
 
-An interactive, responsive React application visualizing the sweeping impact of Department of the Interior Secretary Doug Burgum’s (Secretarial Order 3431)[https://www.whitehouse.gov/secretarial-orders/secretarial-order-3431/] (SO 3431) on National Park Service public exhibits, media, and visitor experiences.
+An interactive, responsive React application visualizing the sweeping impact of Department of the Interior Secretary Doug Burgum’s [Secretarial Order 3431](https://www.whitehouse.gov/secretarial-orders/secretarial-order-3431/) (SO 3431) on National Park Service public exhibits, media, and visitor experiences.
 
 ## Project Overview
 This tool allows journalists, researchers, and the public to geographically explore areas targeted for censorship under the "Grandeur, Beauty, and Abundance" mandate. It plots confirmed targeted parks, monuments, and historic sites on a nationwide map. Visitors can interact with individual sites to expose the exact issues flagged by the department, the demanded corrective actions, and accompanying photographic evidence.
@@ -41,3 +41,7 @@ The configuration naturally divorces the 7.6GB raw data archive from the web app
 2. Run `npm run deploy`.
 3. The Vite bundler will execute `npm run build`, packaging the entire site into a minified `dist/` envelope.
 4. The `gh-pages` NPM module will automatically isolate the `dist/` payload and push it directly to your repository's live publishing branch.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
