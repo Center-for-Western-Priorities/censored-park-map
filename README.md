@@ -6,7 +6,7 @@ An interactive, responsive React application visualizing the sweeping impact of 
 This tool allows journalists, researchers, and the public to geographically explore areas targeted for censorship under the "Grandeur, Beauty, and Abundance" mandate. It plots confirmed targeted parks, monuments, and historic sites on a nationwide map. Visitors can interact with individual sites to expose the exact issues flagged by the department, the demanded corrective actions, and accompanying photographic evidence.
 
 ## The Underlying Data
-The application is powered by a "[Censorship Spreadsheet](public/Censorship Spreadsheet.xlsx)" containing the operational metadata tracking the internal NPS review process (Tracking IDs, Park Codes, Flagged Issues, and Directives). 
+The application is powered by a "[Censorship Spreadsheet](public/Censorship%20Spreadsheet.xlsx)" containing the operational metadata tracking the internal NPS review process (Tracking IDs, Park Codes, Flagged Issues, and Directives).
 
 Accompanying the spreadsheet is a sprawling [7.6GB raw archive](https://archive.org/details/nps-removal-targets) composed of thousands of PDFs, videos, and raw smartphone photography submitted by park staff documenting exhibits scheduled for removal or alteration (such as references to climate change, the Civil War, enslavement, or Native American perspectives).
 
