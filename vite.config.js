@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/censored-parks-map/',
+  base: '/censored-park-map/',
   test: {
     environment: 'jsdom',
     globals: true,
