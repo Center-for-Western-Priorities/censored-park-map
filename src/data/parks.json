@@ -1,0 +1,1354 @@
+[
+  {
+    "code": "DEWA",
+    "name": "Delaware Water Gap National Recreation Area",
+    "lat": 41.1158,
+    "lon": -74.9602,
+    "items": [
+      {
+        "id": "109",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Please review the first page of our Guide to the Gap - do the mentions of colonization and The Walking Purchase meet the requirements under SO 3431?"
+      }
+    ]
+  },
+  {
+    "code": "PAIS",
+    "name": "Padre Island National Seashore",
+    "lat": 27.4206,
+    "lon": -97.2913,
+    "items": [
+      {
+        "id": "112",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": "/thumbnails/112.jpg",
+        "largeImage": "/images/112.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Following SO 3431, \"...any signs that are negative about either past or living Americans..,\" we have identified that the Malaquite Visitor Center exhibit incorrectly states that the Texas Karankawa perished as a people and that they no longer exist.  The Karankawa still exist and are an integral part of American history. \n\nhttps://karankawas.com/\n\nhttps://texashighways.com/culture/people/karankawa-descendants-are-reclaiming-their-heritage-after-being-written-off-extinct/"
+      }
+    ]
+  },
+  {
+    "code": "CAHA",
+    "name": "Cape Hatteras National Seashore",
+    "lat": 35.2312668,
+    "lon": -75.5413703,
+    "items": [
+      {
+        "id": "126",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Park Unigrid: S1 front page- under \"where land and sea merge.\" 5th paragraph about sea turtles and light pollution. Possibly disparaging against park users. Mentions natural features (turtles), but not in the lens of beauty, grandeur and/or abundance. Side 2 provided for context."
+      },
+      {
+        "id": "127",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "CAHA JR Ranger booklet- \nActivity 3- natural resource based but does not mention grandeur, beauty or abundance\nActivity 14. Please review for appropriateness of women pirates dressing like men."
+      },
+      {
+        "id": "133",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Under \"Ocracoke Inlet:\" please review if the discussion of the changing channel supports \"grandeur, beauty and abundance.\"\nUnder \"Early Solutions: is the language disparaging of Congress when describing the failed lighthouse and lightship?\nUnder \"light station today:\" is the discussion of Hurricane Dorian and its impacts supporting grandeur beauty and abundance?"
+      },
+      {
+        "id": "144",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "This is for WRBR- WRBR is not an option on the drop down menu.\n\nPlease review pg 1, \"showing the world.\" The language describing Langley's failures of flight has been flagged as possible disparaging of a prominent American."
+      },
+      {
+        "id": "146",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "This is for FORA.  FORA is not an option on the drop down menu.\n\nPlease review FORA JR Ranger book pgs on emancipation, cause of civil war, and freedman's colony pages if langauge is disparaging of Americans."
+      },
+      {
+        "id": "147",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "This is for FORA. FORA is not an option on the drop down menu.  Please review legacy of Freedmans' Colony on second page for possibly disparaging language about the fate of the colony."
+      },
+      {
+        "id": "166",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This is a temporary sign placed at the Ocracoke light station to give context to the large-scale construction project ongoing to raise the building.  Would like the team to review the natural resource message about sea level rise."
+      },
+      {
+        "id": "167",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/167.jpg",
+        "largeImage": "/images/167.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This package is all the waysides for Bodie Island District of CAHA. All need to be reviewed for natural resource language potentially non compliant with SO.\n\nOn the doule panels, map panels do not need to be reviwed, just the interp panels on the right.\n\nSome I have digital files for, other I do not (do not have digital files for the panels that accompany the maps)"
+      },
+      {
+        "id": "176",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/176.jpg",
+        "largeImage": "/images/176.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "There are 8 of these across CAHA within the boundaries of Dare County. These signs were designed, purchased and installed by Dare County under a special use permit with a grant they received. This is a mixture of a warning/regluatory sign with natural resource messaging that might be in conflict with SO.\nThese signs are accompanied with a 8ft surge pole, a color coded pole that can be used to measure the height of storm surge."
+      },
+      {
+        "id": "456",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/456.jpg",
+        "largeImage": "/images/456.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "These are an older set of information signs along the Hammock Hills Trail on Ocracoke Island. While we believe the language is in compliance with the SO, we plan to remove these as soon as we are allowed due to their deteriorated condition prior to designing new wayside in the future. Timeline for new waysides TBD."
+      },
+      {
+        "id": "458",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/458.jpg",
+        "largeImage": "/images/458.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Series of old metal informational signs along the Buxton Woods Trail on Hatteras Island. We do not feel there is anything in violation of the SO, but plan on removing these due to their age and condition when we are allowed to do so. Will replace with a new wayside project once funding is available and project is prioritized. Timeline TBD."
+      },
+      {
+        "id": "460",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/460.jpg",
+        "largeImage": "/images/460.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Signs for Hatteras and Ocracoke Island:\nOcracoke Ponies: we do not believe it to be in violation, but would like someone to review if messaging of climate change and sea level rise reduces the focus on the grandeur, beauty and abundance. \nFinding a Balance: we do not believe it to be in violation, but would like someone to review if messaging of dual use reduces the focus on the grandeur, beauty and abundance.\nInching Inland: Panel discusses natural processes of shoreline erosion and barrier island dynamics, but might not focus on the grandeur, beauty and abundance\nShifting Shoreline: We do not believe to be in violation, but the mention of the local controversy of the decision of the move might be seen by some who lived this as disparaging, but it is an important part of the story. \nEngage Your Senses: section on light pollution might not be focusing on the grandeur, beauty and abundance."
+      },
+      {
+        "id": "461",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nIllustration",
+        "action": "IntExt: \nIllustration:Revise\n\nText:Revise",
+        "thumbnail": "/thumbnails/461.jpg",
+        "largeImage": "/images/461.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Exhibits in the Ocracoke Discovery Center were installed in 2024 and heavily highlight the natural resources of the islands. We feel that overall, the exhibits do a good job highlighting the grandeur, beauty and abundance of the park stories, however there are some mentions of climate change, sea level rise, and night sky pollution that might be working against the messaging of grandeur beauty and abundance."
+      },
+      {
+        "id": "515",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nPhotograph",
+        "action": "IntExt: \nText:Revise\n\nPhotograph:Revise",
+        "thumbnail": "/thumbnails/515.jpg",
+        "largeImage": "/images/515.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Please review Civil War section of the Graveyard of Atlantic Museum.  These exhibits are 40 years old, and slated for replacement when funding allows. We do not think this is disparaging, but it does use older terms such as \"rebel.\""
+      }
+    ]
+  },
+  {
+    "code": "CARL",
+    "name": "Carl Sandburg Home National Historic Site",
+    "lat": 35.2676719,
+    "lon": -82.4509261,
+    "items": [
+      {
+        "id": "134",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/134.jpg",
+        "largeImage": "/images/134.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "The timeline wayside discusses the pre-Sandburg property owners and their contributions to enslavement and white supremacy. Some of the language may be considered \"disparaging\" of Americans."
+      }
+    ]
+  },
+  {
+    "code": "FORA",
+    "name": "Fort Raleigh National Historic Site",
+    "lat": 35.9353099,
+    "lon": -75.7118277,
+    "items": [
+      {
+        "id": "148",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \n\n\nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This is for FORA- FORA is not an option on drop down menu.\n\nPlease review \"from fashion icon to cone of shame\" title on first page. Management is concerned this might be disparaging."
+      },
+      {
+        "id": "168",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel is on an overlook over the water. Please review for natural resource messaging that might not be in compliance with SO."
+      },
+      {
+        "id": "170",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/170.jpg",
+        "largeImage": "/images/170.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "These are all the waysides and markers associated with the Freedom Trail at FORA (winner of regional Freeman Tilden Award in 2024). Please review for any potential disparaging language related to slavery and the successes and failures of the Freedman's Colony."
+      },
+      {
+        "id": "463",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nIllustration",
+        "action": "IntExt: \nText:Revise\n\n\n\nIllustration:Revise",
+        "thumbnail": "/thumbnails/463.jpg",
+        "largeImage": "/images/463.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Overall, we feel the extent of the FORA VC exhibits are not disparaging to Americans, including colonials. There are some elements, when viewed independently, that some might feel are in violaton of the SO. All exhibits are attached. Please review the content related to the Freedmans' Colony and the English perspectives of the Algonquian culture."
+      }
+    ]
+  },
+  {
+    "code": "LIBI",
+    "name": "Little Bighorn Battlefield National Monument",
+    "lat": 45.5653722,
+    "lon": -107.4276619,
+    "items": [
+      {
+        "id": "152",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": "/thumbnails/152.jpg",
+        "largeImage": "/images/152.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "LIBI is currently in the process of finalizing text for new exhibits to be installed in a new visitor center. In accordance with this review, staff at the park and HFC reviewed text and compared text with the Secretarial Order 3431 through ChatGPT. See below the three flagged areas:\n\n1. Sentences: \"Agitated by defeat, the US Government implemented harsher policies and broke more promise\" and \"The United State was hungry for land and gold.\" LIBI can change the text regarding \"agitated\", \"broke more promises\", and \"hungry\" if review board finds this language subjective.\n\n2. \"Residential US Federal Indian Boarding Schools and their commissioned Christian-based Indian Boarding schools violently erased cultural identities and language in the children they were entrusted to educated.\" LIBI would like to maintain this text in the exhibits as \"violently erased\" was language specifically requested and suggested through tribal consultation and accurately describes conditions of boarding schools as supported by the Federal Indian Boarding School Initiative - Investigative Reported that was completed in 2024."
+      },
+      {
+        "id": "305",
+        "status": "Submitted",
+        "issue": "IntExt:",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Per requested by the Regional Director, LIBI is submitting the full content package for the new exhibits to be installed in the new visitor center in 2026. The current package is Design Development Phase #3 (DD3). DD3 has already been delievered for review and feedback received from all affiliate Tribes and stakeholders. Harper Ferry Center and the design contractor, Design Minds, are currently in the process of synthesizing and applying comments received to the final design package before fabrication. This final Design Development will be delivered towards to the end of the summer (DD4) for final park comments and review. \n\nDue to file sizes, all materials related to the design/text of exhibits for review are linked to NPGallery. See linked URL below. \n\nThey include: \n\n1. Graphics Book - A visual representation of each display concept.\n2. DD3 Text Level 3 - All panel text in full, providing a complete view of exhibit narratives.\n3. AV Program Production - Concepts for four audio listening stations.\n4. DD3 Content Specialties Report - Suggested artifacts and replicas for the exhibits.\n\nTwo documents have also been uploaded that track feedback from Tribal Consultation related to DD3. \n\n1. LIBI Consolidated DD3 Comments and Responses: Includes both comments from Tribal memebers and stakeholders. \n2. LIBI Tribal Consultation Notes 12022024: A section of this consultation was specific to exhibit design. \n\nThe park has engaged Tribal Nations and stakeholders throughout the design process, incorporating feedback into the desing and text. The uploaded documents just relate the most recent design (DD3), but the park could provide additional information regarding past consultation for earlier design phases."
+      }
+    ]
+  },
+  {
+    "code": "CONG",
+    "name": "Congaree National Park",
+    "lat": 33.7941554,
+    "lon": -80.7636521,
+    "items": [
+      {
+        "id": "171",
+        "status": "Submitted",
+        "issue": "Film: \nScript\nIntExt: \nText\nPublications: \nText",
+        "action": "Film: \nScript\nPublications: \nText",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Congaree National Park Film - Congaree: Wilderness Shaped By Water -- No changes yet made. Unsure if needs changing. Unsure how to make any change that may be needed. Film and associated documentation linked below.\n\nCongaree National Park Exhibit -- No changes yet made. Unsure if needs changing. Unsure how to make any change that may be needed. Associated documentation linked below.\n\nCongaree National Park Waysides - Bates Ferry Trail -- No changes yet made. Unsure if needs changing. Unsure how to make any change that may be needed. Associated documentation linked below.\n\nCongaree National Park Publications -- Publications include: Congaree Unigrid, Bates Ferry Trail Guide, Self-Guided Boardwalk Tour, People of the Floodplain Site Bulletin, A Landscape Sustained By Fire Site Bulletin. No changes yet made. Unsure if needs changing. Unsure how to make any change that may be needed. Associated documentation linked below. \n\nCongaree National Park Retail -- No changes yet made. Unsure if needs changing. Unsure how to make any change that may be needed. Associated documentation linked below."
+      }
+    ]
+  },
+  {
+    "code": "MONO",
+    "name": "Monocacy National Battlefield",
+    "lat": 39.3601328,
+    "lon": -77.3995281,
+    "items": [
+      {
+        "id": "175",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": "/thumbnails/175.jpg",
+        "largeImage": "/images/175.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "As part of the ongoing renovation of the park museum, we are requesting a review of select new exhibit content to ensure alignment with the intent and guidance of Secretary\u2019s Order 3431.\nWhile the park has conducted an internal review of these materials, we want to ensure we are accurately interpreting the order\u2019s expectations.\nThe exhibits in question are newly developed and have not yet been installed. They are designed to provide visitors with a deeper understanding of the complex histories connected to the site."
+      },
+      {
+        "id": "177",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/177.jpg",
+        "largeImage": "/images/177.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "As part of the ongoing efforts to review public facing content, we are requesting a review of the L'Hermitage wayside to ensure alignment with the intent and guidance of Secretary\u2019s Order 3431.\n\nWhile the park has conducted an internal review of the material, we want to ensure we are accurately interpreting the order\u2019s expectations."
+      },
+      {
+        "id": "390",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/390.jpg",
+        "largeImage": "/images/390.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "As part of the ongoing renovation of the park museum, we are requesting a review of select new exhibit content to ensure alignment with the intent and guidance of Secretary\u2019s Order 3431.\nWhile the park has conducted an internal review of these materials, we want to ensure we are accurately interpreting the order\u2019s expectations.\nThe exhibits in question are newly developed and have not yet been installed. They are designed to provide visitors with a deeper understanding of the complex histories connected to the site."
+      }
+    ]
+  },
+  {
+    "code": "CASA",
+    "name": "Castillo de San Marcos National Monument",
+    "lat": 29.8974309,
+    "lon": -81.3118534,
+    "items": [
+      {
+        "id": "204",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "The attached brochure was developed through a partnership with the Cheyenne and Arapaho Tribes. The park has worked through consultations with this federally-recognized tribe about how to tell a complete history, including tribal perspectives, on the 1875-1878 imprisonment of Plains Tribes warriors and leaders.  Note that the text of this brochure was written by our tribal partners to share that perspective of Fort Marion (Castillo de San Marcos) history."
+      },
+      {
+        "id": "261",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/261.jpg",
+        "largeImage": "/images/261.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Text panel discussing imprisonment of Plains Tribes (Cheyenne, Arapaho, Kiowa, Comanche, and Caddo) imprisonment at Castillo de San Marcos (Fort Marion). Text of panel needs review for language referring to tribes having choice of extinction or assimilation.  Language of U.S. Government giving the \"choice\" of extinction could be considered negative towards the United States."
+      },
+      {
+        "id": "264",
+        "status": "Submitted",
+        "issue": "IntExt: Text",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "For review.  Existing exhibits present two opposing perspectives of the U.S. imprisonment of Plains Tribes chiefs and warriors at Castillo de San Marcos (Fort Marion) in St. Augustine, Florida, in 1975-1978. Tribes included the Cheyenne, Arapaho, Kiowa, Comanche, and Caddo Tribes. The Captain Pratt exhibit represents the U.S. Military perspective of assimilation as the best and only true option for Tribes to survive. The Chief Heap of Birds exhibit, developed through official consultation with the Cheyenne and Arapaho Tribes, represents the Tribe's perspective and impacts of the imprisonment.  By having both of these exhibits together, visitors are provided with information that tells a more complex, more complete picture of history so they are free to make their own determination/understanding of the history of this fort."
+      },
+      {
+        "id": "265",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/265.jpg",
+        "largeImage": "/images/265.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Review Requested: This sign at Castillo de San Marcos was developed in collaboration with the Cheyenne and Arapaho Tribes. The QR code leads to oral histories provided by the tribe that represent the perspective of the people decended from the Fort Marion prisoners.  This sign works in collaboration with the Chief Heap of Birds and Captain Pratt exhibits in the same exhibit space."
+      },
+      {
+        "id": "268",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/268.jpg",
+        "largeImage": "/images/268.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Review Requested: \"Patriot War\" reference in exhibit.  In 1812 while Florida was still Spanish territory, eager United States citizens developed a plot to invade and capture Florida, to make it part of the United States.  Exhibit (part of a timeline) reads:  1812 - Americans living in Georgia and Spanish Florida plot to add the territory to the United States. These self-styled \"Patriots\" stage a revolt, capture Fernandina, and march on St. Augustine. The rebelion collapses when Seminoles join forces with the Spanish authorities.\"   Please review to determine if this falls into a category of painting the United States in a less than poisitive light."
+      },
+      {
+        "id": "269",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/269.jpg",
+        "largeImage": "/images/269.jpg",
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "The following Eastern National Sales Items are presented for further review.  Items include: \n-Civil Rights in Florida: Back cover comments on the \"shockingly lateratification of the 19th amendment guaranteeing women's suffrage.\" Civil Rights has played a significant role in St. Augustine history, including peaceful gathering on the grounds of Castillo de San Marcos National Monument.  \n\n-Fort Marion Prisoners and the Trauma of Native Education: The imprisonnment of Plains Tribes chiefs and warriors in the Castillo from 1875-1878 directly tied to the invention of the off-reservation boarding school system for Native Americans. Captain Pratt, the jailor in 1875-1878, went on to found the Carlisle School as the first of these boarding schools. This book shares that history and perspective through creative writing and poetry.  \n\n-Native Americans in History is a \"history book for kids.\" It focuses on the stories of Native Americans to share stories of strength and resilience. The back cover has a sentence that that reads \" ...and how Tecumseh inspired warriors to protect their communities from white American hostility.\" This line sparked the review request. \n\n- The Other War of 1812: This book focuses on the failed attempt by U.S. settlers from to attack the boarderlands between U.S. Georgia and Spanish Florida, focusing on American motivations for the attacks such as \"Florida's growing populations of unregulated blacks and geopolitical intrigues involving Spain, Britain, and France.\""
+      }
+    ]
+  },
+  {
+    "code": "NISI",
+    "name": "Ninety Six National Historic Site",
+    "lat": 34.1413693,
+    "lon": -82.0159868,
+    "items": [
+      {
+        "id": "229",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "There is a book titled \"Wives, Slaves, and Servant Girls: Advertisements for female runaways in American Newspapers 1770-1783\" by Don Hagist. The park is flagging it out of an abundance of caution."
+      }
+    ]
+  },
+  {
+    "code": "GATE",
+    "name": "Gateway National Recreation Area",
+    "lat": 40.5984789,
+    "lon": -73.8579271,
+    "items": [
+      {
+        "id": "249",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/249.jpg",
+        "largeImage": "/images/249.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "There are two exhibit panels in the Jamaica Bay Wildlife Refuge Visitor Center that may need to be reviewed.  There is one digital exhibit in the Sandy Hook Visitor Center that may need to be reviewed.   There is one wayside panel at the Jamaica Bay Wildlife Refuge and one wayside panel at Sandy Hook that may need to be reviewed.  Photos of the exhibits and waysides have been attached, along with transcription of the text in question."
+      },
+      {
+        "id": "896",
+        "status": "Submitted",
+        "issue": "IntExt: Text",
+        "action": "IntExt:",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Review of Script for Upcoming Exhibit:  Attached is the script for an exhibit entitled \u2018Colonel Tye and the Black Brigade at Sandy Hook - Bringing the Story to Life\u2019 developed by the Sandy Hook Foundation, a philanthropic partner to Gateway National Recreation Area. The Sandy Hook Foundation intends to present this exhibit, which will be in the form of an augmented reality experience, within a National Park Service owned and operated building at Sandy Hook, NJ. The exhibit will be free of charge. The Sandy Hook Foundation intends to open the exhibit in the Summer of 2026."
+      }
+    ]
+  },
+  {
+    "code": "MANA",
+    "name": "Manassas National Battlefield Park",
+    "lat": 38.8223326,
+    "lon": -77.5306204,
+    "items": [
+      {
+        "id": "291",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/291.jpg",
+        "largeImage": "/images/291.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Wayside: \"The War Over Memory\"\n24x36 Wayside located on Henry Hill adjacent to the Stonewall Jackson Wayside. It was installed in 2024 by the park. \nHenry Hill (FMSS 47115)1779157 , 1779158"
+      },
+      {
+        "id": "292",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/292.jpg",
+        "largeImage": "/images/292.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Wayside: \"Andrew J. Redman\"\n24x36 Wayside located in Groveton installed in 2024. \nGroveton\nUses Term \"Enslaver\" for William Lewis.\nSame language also exists on website"
+      },
+      {
+        "id": "294",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Product Name\tSKU\n281032-BUYING & SELLING CIVIL WAR MEM\t281032\n249462-BOUND FOR THE PROMISED LAND PA\t249462\n273831-CAPITAL DAMES PA\t273831\n276272-FRED DOUGLASS PROP FREE PA\t276272\nBurying the Dead but Not the Past: Ladies' Memorial Associations and the Lost Cause\t\n253459-BLACK RECONSTRUCTION\t253459\n281054-ENVISIONING EMANCIPATION PA\t281054\n275659-TROUBLED REFUGE STRUGGLING PA\t275659\n279937-WHAT IS JUNETEENTH\t279937\n281257-WHAT WAS RECONSTRUCTION\t281257\n270382-WHAT WAS UNDERGROUND RAILROAD\t270382\n225372-SWEET CLARA & FREEDOM QUILT\t225372\n260517-SLAVE NO MORE TWO MEN\t260517\n436303-CUFF SARAH EMMA EDMONDS\t436303\n450118-POSTCARD RECONSTR ERA 1861-190\t450118\n271953-TRN RECONSTRUCTION ERA BOOK\t271953\n262791-TRN SLAVERY CAUSE&CATALYST CW\t262791\n279801-ENDS OF WAR HD\t279801\n245659-THEY FOUGHT LIKE DEMONS PA\t245659\n272927-REMEMBERING THE CW REUNION PA\t272927\n234287-MEMOIRS SOLDIER  NURSE & SPY\t234287"
+      }
+    ]
+  },
+  {
+    "code": "PIPE",
+    "name": "Pipestone National Monument",
+    "lat": 44.0123463,
+    "lon": -96.3246509,
+    "items": [
+      {
+        "id": "299",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "I ALSO SUBMITTED THIS ENTRY TO THE REVIEW OF RETAIL ITEMS. APOLOGIES FOR THE DUPLICATION. The book \"Indian Sign Language\" by William Tomkins contains material that is derogatory toward Native American people. For example, one chapter describes how boy scouts can conduct \"Indian ceremonies\" by tearing or fringing old clothes and dancing in a circle. The book includes extensive derogatory depictions of stereotyped Native American practices and does not represent real Native American people or culture. The cooperating association voluntarily removed the book from the store immediately when it was brought to their attention, so I believe this matter is resolved."
+      },
+      {
+        "id": "650",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/650.jpg",
+        "largeImage": "/images/650.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "The waysides \"Connection to the Earth Mother\" and \"Pipestone Pilgrimage\" are in poor physical condition and are nearly unreadable. They are ajacent to the parking lot and seen by most visitors. Neither the park nor HFC has been able to locate files for replacement. The purpose of the waysides is to convey the importance of the unique tallgrass prairie landscape and the pipestone contained within it. Ideally, the NPS would design and fabricate new waysides. The park does not currently have any interpretive staff above GS-5 seasonals, though we do have access to a term VIS shared among 4 parks."
+      }
+    ]
+  },
+  {
+    "code": "TILL",
+    "name": "Emmett Till National Monument",
+    "lat": 33.9317,
+    "lon": -90.3444,
+    "items": [
+      {
+        "id": "338",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "This park site bulletin serves as an overview of the park and its significance. As a new site still establishing staff and operations, the park will not have an official unigrid for some time. This site bulletin was developed by an interregional/interdivisional team with input/review from MWR, SER, and White House staff, along with Till family representatives."
+      },
+      {
+        "id": "352",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/352.jpg",
+        "largeImage": "/images/352.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "\"Emmett Till & Mamie Till-Mobley: Let the World See\" was a touring exhibit created in collaboration between the Emmett Till and Mamie Till-Mobley Institute, the Emmett Till Interpretive Center (ETIC), the Till family, and The Children\u2019s Museum of Indianapolis. It tells the story of Emmett Till and his mother, Mamie Till-Mobley, challenging visitors to make a ripple for justice in their own communities.\n\nPark partner ETIC generously worked with NPS on adapting pieces of the traveling exhibit for use at the park contact station in Sumner, MS. There are interpretive panels, tactiles, and a film included in the exhibit. Without this exhibit to share the difficult Till story, the new NPS site would be almost completely devoid of interpretation. NPS staff added three introductory panels, in keeping with the exhibit style, that acknowledge past-present-future partner involvement and provide site orientation. \n\nThe exhibit emphasizes \"progress of the American people\" toward a better future."
+      }
+    ]
+  },
+  {
+    "code": "ANAC",
+    "name": "Anacostia Park",
+    "lat": 38.8733578,
+    "lon": -76.9834023,
+    "items": [
+      {
+        "id": "353",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/353.jpg",
+        "largeImage": "/images/353.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Duly reporting to ensure compliance with 3431.  Park does not recommend a change but would appreciate a review."
+      }
+    ]
+  },
+  {
+    "code": "MORU",
+    "name": "Mount Rushmore National Memorial",
+    "lat": 43.8788605,
+    "lon": -103.4590124,
+    "items": [
+      {
+        "id": "380",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": null
+      }
+    ]
+  },
+  {
+    "code": "INDE",
+    "name": "Independence National Historical Park",
+    "lat": 39.9514554,
+    "lon": -75.1494785,
+    "items": [
+      {
+        "id": "439",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nIllustration",
+        "action": "IntExt: \nText:Revise\n\n\n\n\n\nIllustration:Revise",
+        "thumbnail": "/thumbnails/439.jpg",
+        "largeImage": "/images/439.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "The following text comes from exhibit panels located at the President's House Site at INDE. The exhibit is located on the site of the home that served as the Executive Mansion for both George Washington and John Adams. It was initially developed and largely funded by the City of Philadelphia, with additional support from the U.S. government.\nWhen it became known that President George Washington had brought nine enslaved people from Mount Vernon to work at the residence, there was a strong call\u2014particularly from Philadelphia\u2019s African American community\u2014to recognize and tell the stories of those individuals. In response, both the City of Philadelphia and the Pennsylvania General Assembly passed resolutions urging that the history of the enslaved Africans be included in the site\u2019s interpretation.\nAlthough the National Park Service participated in the project, oversight of the exhibit was led by an ad hoc committee formed and directed by the City of Philadelphia. The resulting exhibit focused heavily on slavery at the site and was designed as a memorial to the nine enslaved individuals who lived and worked there.\nThe exhibit opened in 2010, and in 2015, ownership and management of the site were officially transferred to Independence National Historical Park. \nThe following panels and illustrations may need revision if found that they are inappropriately disparaging to historical figures. \nPlease review to confirm alignment with SO:\nPanel 1: Title Life Under Slavery, Subtitle: Resistance: Image caption: It states that President George Washington was, \"Concerned about his [Washington's] public image, he had his steward, Frederick Kitt, sign this advertisement.\" Do we know that Washington's motivation to have Kitt sign the advertisement was to uphold his reputation? \nPanel 2: Title: Life Under Slavery, Subtitle: Intentional Brutality: It speaks of the methods slaveholders followed to \"break the spirits\" of those they held in slavery. Speaks of whipping, depriving of food, clothing, and shelter; as well as beating, torturing, and raping those they enslaved. \nPanel 3: Title: Life Under Slavery. Subtitle: Stolen: Text relates that descendants of enslaved Africans were, \"brutally kidnapped and forcibly brought to America. \nPanel 4: Illustration: Title: An Act respecting fugitives from justice: The artwork depicts Washington's hands in the foreground; one with the Fugitive Slave Act, the other with a quill signing the Act, in the background a posse of white men are depicted with clubs and guns shooting at four black men (one who has been shot in the head) presumably escaping from slavery. \nPanel 5: Title: History Lost and Found; subtitle: Making History: The first paragraph mentions history being both admirable and deplorable, with the President's House being a stark focus of that definition. The second paragraph uses words \"profoundly disturbing\" to describe Washington transporting enslaved people. It also says as the new federal government embraced the lofty concept of liberty, slavery in the President's House mocked the pretense of liberty.\nPanel 6: Title: History Lost and Found; subtitle: Conflict and Collaboration: There's some negativity towards the National Park Service: \"The NPS minimized the importance of the President's House to focus on construction of the LBC. The story of slavery was buried both literally and figuratively. The NPS agreed to a nominal interpretation of this site.\" \nPanel 7: Title: The Dirty Business of Slavery; subtitle: Slave Trade in the Americas: The 4th paragraph has a sentence about the enslaved population growth and mentions births to enslaved women resulting from rape by white men and forced breeding.\nPanel 8: Title: the Executive Branch; subtitle: A New Nation: A New Form of Government: It suggests that southern states wanted the capital of the US to be located along the Potomac River, between Maryland and Virginia, because those two states were \u201cslave states.\u201d Though this may have been a small factor, it was not the main one. Southern states were more suspect of northern states because their economies were largely mercantilist and not agricultural. Trade priorities between the two were likely to clash. Additionally, in the 1790s except for Massachusetts and Vermont, all of the states were slave states. (Pennsylvania, New Hampshire, Rhode Island, Connecticut, and New York had passed gradual abolition laws before 1800).\nPanel 9: Title: The Executive Branch; image caption: Under the caption for John Adams it states that both Adams and Washington \u201cmade no comment on petitions or publications protesting slavery.\u201d It gives no background as to why that might be.\nPanel 10: The House and the People Who Lived There; Timeline: The timeline calls out everyone who lived there and who was a slaveholder. No other descriptors are used. \nPanel 11: The House and the People Who Worked There; Subtitle: Washington's Deceit: The subtitle is misleading. The section speaks of Washington secretly rotating his enslaved laborers between Mt. Vernon and the President\u2019s House in order to take advantage of a loophole in Pennsylvania\u2019s abolition law. The panel demonstrates that he was secretive, but not deceitful.\nPanel 12: The House and the People Who Worked There: Subtitle: Martha Washington and the Dower Slaves\"Martha Washington was not legally able to free the 153 people enslved by the Custis estate, but evidence suggests that she accepted the institution of slavery.\" It does not reveal or direct to any evidence.\nPanel 13: The Dirty Business of Slavery; Subtitle: Slavery Timeline; Image caption: The timeline entry for the 1793 Fugitive Slave Act has an image next to it referencing much harsher 1850 Fugitive Slave Law.\nPlease review all to confirm alignment with SO 3431"
+      },
+      {
+        "id": "442",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": "/thumbnails/442.jpg",
+        "largeImage": "/images/442.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Please review the following panels in the Liberty Bell Center to confirm alignment with SO:\n1. Exhibit panels: Two panels tell of how the Liberty Bell's Biblical inscription \"Proclaim Liberty Throughout All the Land Unto All the Inhabitants Thereof,\" a verse that in part refers to the freeing of slaves, motivated the abolitionist movement to adopt the Bell as a symbol for their cause and to give it the name \"Liberty Bell.\" Both panels give background to the growth and support of slavery in the US and the resistance to it, with violence on both sides. Also mentioned: George Washington holding slaves while serving as President of the US in Philadelphia and Independence Hall as a location where the Fugitive Slave Act of 1850 was upheld.\n2.Exhibit panels: One section of panels cover the travels of the Bell during the Post-Reconstruction period in the United States. \nThe section contrasts the use of the Liberty Bell as a symbol of universal freedom for the Abolitionist Movement prior to the Civil War. The introduction panel expresses how the same bell became a symbol of reunification after the Civil War as it made several trips around the nation beginning in 1885, including two trips south. It calls out the systemic and violent racism and sexism that existed in the US at that time. Another covers a visit to the Bell by the former President of the Confederacy, Jefferson Davis as it travelled by his home in Mississippi on it's way to New Orleans. It says that Jefferson Davis, like many other Americans, did not believe that the human freedoms and rights that the Bell represented, included African Americans. \n3. In a panel that further covers the travels of the Bell throughout the US during the Post-Reconstruction period, a photo caption of a crowd surrounding the Bell during a stop in Charleston, SC in 1902 calls \"legal\" racial segregation and disenfranchisment of African Americans that exisited in south at that time."
+      },
+      {
+        "id": "443",
+        "status": "Submitted",
+        "issue": "IntExt: \nPhotograph",
+        "action": "IntExt: \n\n\nPhotograph:Revise",
+        "thumbnail": "/thumbnails/443.jpg",
+        "largeImage": "/images/443.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "The photograph is part of a text panel that shares the different ways the American people have gathered around Independence Hall, to celebrate, commemorate, and protest. One image depicts an anti-Vietnam War protest and shows a protestor holding a poster that says, \"Stop this Immoral War.\" It could be construed as an opinon supported by the park."
+      },
+      {
+        "id": "444",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": "/thumbnails/444.jpg",
+        "largeImage": "/images/444.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Inside Independence Hall, there is an iPad kiosk that offers a virtual tour of the second floor for visitors who are unable to access it in person. One part of the tour covers the former committee room of the Pennsylvania Assembly. The description explains that in the 1850s, when the U.S. Circuit Court used the building, this room served as the U.S. Marshal's Office. It further states that, during the enforcement of the Fugitive Slave Law of 1850, accused fugitives from slavery were held in that office\u2014located directly above the room where the Declaration of Independence was signed.\n\nHowever, the text refers to this situation as \"ironic,\" which may be considered inappropriate. Since the virtual tour content was developed by an outside contractor, they will need to be re-engaged to revise the language."
+      },
+      {
+        "id": "665",
+        "status": "Submitted",
+        "issue": "Film: \nScript",
+        "action": "Film: \nScript",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "Background Info: The film is part of an exhibit located on the site of the home that served as the Executive Mansion for both George Washington and John Adams. It was initially developed and largely funded by the City of Philadelphia, with additional support from the U.S. government.\nWhen it became known that President George Washington had brought nine enslaved people from Mount Vernon to work at the residence, there was a strong call\u2014particularly from Philadelphia\u2019s African American community\u2014to recognize and tell the stories of those individuals. In response, both the City of Philadelphia and the Pennsylvania General Assembly passed resolutions urging that the history of the enslaved Africans be included in the site\u2019s interpretation.\nAlthough the National Park Service participated in the project, oversight of the exhibit was led by an ad hoc committee formed and directed by the City of Philadelphia. The resulting exhibit focused heavily on slavery at the site and was designed as a memorial to the nine enslaved individuals who lived and worked there.\nThe exhibit opened in 2010. In 2015, ownership and management of the site were officially transferred to Independence National Historical Park. \nThe issue with one of the films is described in the attached document. Please review to confirm alignment with SO 3431.  \n\n[There are no links to the film. The park is legally prohibited from uploading the film onto a website.]"
+      },
+      {
+        "id": "674",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/674.jpg",
+        "largeImage": "/images/674.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This touchscreen interactive guides visitors through three key periods in Benjamin Franklin\u2019s life, focusing on his views and actions regarding the enslavement of Africans. Using primary source documents, it invites users to evaluate whether Franklin was pro- or anti-slavery.\n\nAs users progress, they learn that Franklin\u2019s views evolved significantly. He began as a supporter of slavery\u2014even owning enslaved people himself\u2014but over time became a leading abolitionist. He ultimately served as President of the Pennsylvania Abolition Society and advocated for ending the slave trade during the Constitutional Convention.\n\nIt's important to note that someone who doesn\u2019t complete the entire interactive may walk away with the impression that Franklin was only pro-slavery, without seeing his later transformation.\n\nI am attaching selected images from the interactive.\n\nPlease review to confirm alignment with SO 3431."
+      },
+      {
+        "id": "712",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/712.jpg",
+        "largeImage": "/images/712.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Throughout the exhibits in the 2nd Bank, via the text panels, individuals portrayed in portraits are connected to people in other portraits. The text panel for the Peale portrait of Thomas Jefferson mentions Jefferson's struggles with slavery and connects him to a Philadelphia native and delegate to the Continental Congress, John Dickinson. It states that Dickinson was the 2nd largest slaveholder in Philadelphia at that time. It does not state that Dickinson also struggled with being a slaveholder. As a sidenote, Dickinson freed the people he enslaved in 1777. \n\nPlease review to confirm alignment with SO 3431."
+      },
+      {
+        "id": "717",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/717.jpg",
+        "largeImage": "/images/717.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Please review language concerning the Adams household \"possibly\" hiring enslaved African Americans to work in the President's house to confirm alignment with SO 3431."
+      }
+    ]
+  },
+  {
+    "code": "JELA",
+    "name": "Jean Lafitte National Historical Park and Preserve",
+    "lat": 29.9433438,
+    "lon": -89.9904848,
+    "items": [
+      {
+        "id": "481",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Wayside describes the effects of rising sea levels, subsidence, and warming climate on the lands and people of southern Louisiana. Wayside does not disparage industry or the federal government, just states the facts as they are."
+      },
+      {
+        "id": "482",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Wayside describes the history of the village of Fazendeville, a African American community established on the Chalmette Battlefield (War of 1812) after the Civil War. The National Park Service gained control of the surrounding lands, and in 1965 forced the last remaining residence of the village off their lands in order to make the battlefield \"whole\" in time for the 150th anniversary of the battle. Today the park has a good relationship with the community's descendants, who regularly visit the park and have family reunions. The panel does not emphasize much of what actually happened, and as such I do not recommend any changes."
+      }
+    ]
+  },
+  {
+    "code": "COLO",
+    "name": "Colonial National Historical Park",
+    "lat": 37.23,
+    "lon": -76.51,
+    "items": [
+      {
+        "id": "484",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/484.jpg",
+        "largeImage": "/images/484.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Needs reviewed to see if the language complies with SO 3431."
+      }
+    ]
+  },
+  {
+    "code": "ANDE",
+    "name": "Andersonville National Historic Site",
+    "lat": 32.1986501,
+    "lon": -84.1299689,
+    "items": [
+      {
+        "id": "516",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/516.jpg",
+        "largeImage": "/images/516.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "National Prisoner of War Museum exhibit text.  Needs general review due to the museum interpreting difficult events in our history."
+      }
+    ]
+  },
+  {
+    "code": "SAND",
+    "name": "Sand Creek Massacre National Historic Site",
+    "lat": 38.5485192,
+    "lon": -102.5100961,
+    "items": [
+      {
+        "id": "584",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Numerous wayside panels have out of date graphics orsunbleach damage and are partly unreadable. One panel needs redesign so as to redsuce the likelyhood of continued persistent vandalism."
+      },
+      {
+        "id": "1062",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/1062.jpg",
+        "largeImage": "/images/1062.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This wayside exhibit panel, entitled \"Night March to Sand Creek\" prominently features a photograph of Colonel John Chivington. This panel is located at an orientation pullout along a county road and has unmonitored visitor access 24 hours a day. Because of the open access of this location, the picture of John Chivington is often a target for vandalism, leading to the regular replacement of this panel due to damage. \n\nThis and all other wayside exhibits at SAND have gone through an extensive tribal consultation process, as required by the park's enabling legislation, Public Law 106-465. A wayside exhibit replacement project is currently formulated for FY26, and relocating the picture of John Chivington to a location elsewhere in the park less likely to be vandalized is a high priority."
+      },
+      {
+        "id": "1064",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/1064.jpg",
+        "largeImage": "/images/1064.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "These four exhibit panels are located in the primary visitor orientation area. Three of them date to the beginning of park operations in 2008 and do not meet NPS graphic design standards. \n\nTwo panels feature a sepia toned parchment background and cursive fonts. These panels provide the unedited text of two letters written by massacre participants describing what they witnessed. As they presently exist they are difficult to read. A third panel served as an introduction to the two letters and is text heavy. The fourth panel directs visitors to look toward the park's maintenance build and needs to be revised and relocated to a more appropriate location within the park, probably at the village overlook area. The final panel is an orientation to the park that features an obsolete park map with an incorrect legal boundary shown.\n\nThe two panels that display the text of letters written in 1864 by Silas Soule and Joseph Cramer are especially important to our Tribal partners and representatives, and at their request these panels repeat the full text of each letter. \n\nThese and all other wayside exhibits at SAND have gone through an extensive tribal consultation process, as required by the park's enabling legislation, Public Law 106-465. A wayside exhibit replacement project is currently formulated for FY26 in which all wayside exhibits in the park will be reviewed for content and redesigned along with renewed Tribal consultation."
+      },
+      {
+        "id": "1067",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "These exhibit panels are located along the park's Monument Hill Trail.  Some of the panels utilize maps and graphics that are difficult to read, no longer accurate due to boundary changes, or do not meet the NPS design standard. \n\nThese and all other wayside exhibits at SAND have gone through an extensive tribal consultation process, as required by the park's enabling legislation, Public Law 106-465. A wayside exhibit replacement project is currently formulated for FY26 in which all wayside exhibits in the park will be reviewed for content and redesigned along with renewed Tribal consultation."
+      },
+      {
+        "id": "1071",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "These ten exhibit panels are located along the park's Bluff Trail.  Some of the panels utilize maps and graphics that are difficult to read, no longer accurate due to boundary changes, or do not meet the NPS design standard. \n\nThese and all other wayside exhibits at SAND have gone through an extensive tribal consultation process, as required by the park's enabling legislation, Public Law 106-465. A wayside exhibit replacement project is currently formulated for FY26 in which all wayside exhibits in the park will be reviewed for content and redesigned along with renewed Tribal consultation."
+      }
+    ]
+  },
+  {
+    "code": "DINO",
+    "name": "Dinosaur National Monument",
+    "lat": 40.4936928,
+    "lon": -109.000787,
+    "items": [
+      {
+        "id": "607",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/607.jpg",
+        "largeImage": "/images/607.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Desert Voices Trail - There is a series of outdoor waysides (40 total) that was installed on the Desert Voices Trail in 1992. While most of the porcelain enamel waysides are in fair condition, the content is from a different time period and does not meet current standards for interpretation. Some of the content is inaccurate and the approach for may of the waysides was to address issues instead of the resources, scenery and stories visible to the visitor. Recommendation is to remove these wayside exhibits and replace with newly design ones that focus on the resources and scenery immediately visible to visitors. The content, style and methods should be done in a way to engage more visitors."
+      }
+    ]
+  },
+  {
+    "code": "CHYO",
+    "name": "Chiyo National Park",
+    "lat": 37.2608,
+    "lon": -76.6974,
+    "items": [
+      {
+        "id": "611",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "IntExt: \nText:Revise",
+        "thumbnail": "/thumbnails/611.jpg",
+        "largeImage": "/images/611.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "These panels include detailed accounts of segretation and ostracism in the U.S. Army, race descrimination, U.S. Army, discrimination against Native Americans, and racial prejudice."
+      }
+    ]
+  },
+  {
+    "code": "CANE",
+    "name": "Cane River Creole National Historical Park",
+    "lat": 31.6650001,
+    "lon": -93.0064903,
+    "items": [
+      {
+        "id": "629",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/629.jpg",
+        "largeImage": "/images/629.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": null
+      }
+    ]
+  },
+  {
+    "code": "CANA",
+    "name": "Canaveral National Seashore",
+    "lat": 28.8882108,
+    "lon": -80.8205112,
+    "items": [
+      {
+        "id": "630",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/630.jpg",
+        "largeImage": "/images/630.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "CANA has two prominent signs located in both our Apollo and Playalinda districts that informs visitors that they may encounter nude sunbathing at certain boardwalks within the park (boardwalk #5 in Apollo and boardwalk #13 in Playalinda).  Both of these signs have been reviewed and approved by DOI Solicitors and have been in the park for a number of years.  These signs assist the general public in making an informed decision on whether they want to use the beach access at these two locations in the park.  We are looking for guidance on whether the signs can remain as is or if they need additional review."
+      }
+    ]
+  },
+  {
+    "code": "HOME",
+    "name": "Homestead National Historical Park",
+    "lat": 40.2888564,
+    "lon": -96.8344346,
+    "items": [
+      {
+        "id": "644",
+        "status": "Submitted",
+        "issue": "IntExt: \nText",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/644.jpg",
+        "largeImage": "/images/644.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Quote from Andrew Jackson:  \"That those tribes can not exist surrounded by our settlements....is certain. Without appreciating the causes of their inferiority or seeking to control them, they must necessarily yield to the force of circumstances and ere long disappear.\""
+      }
+    ]
+  },
+  {
+    "code": "ORPI",
+    "name": "Organ Pipe Cactus National Monument",
+    "lat": 31.9547,
+    "lon": -112.8055,
+    "items": [
+      {
+        "id": "660",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/660.jpg",
+        "largeImage": "/images/660.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "sun damaged interp signs. Have other sun damaged directional/safety signage as well"
+      },
+      {
+        "id": "661",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/661.jpg",
+        "largeImage": "/images/661.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "contains text that involve human factual actions"
+      },
+      {
+        "id": "662",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText",
+        "thumbnail": "/thumbnails/662.jpg",
+        "largeImage": "/images/662.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Books from WNP"
+      }
+    ]
+  },
+  {
+    "code": "EVER",
+    "name": "Everglades National Park",
+    "lat": 25.3125,
+    "lon": -80.9383,
+    "items": [
+      {
+        "id": "681",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nIllustration",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/681.jpg",
+        "largeImage": "/images/681.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Several of Everglades National Park's stories could be conceived as being disparaging to the development of industrial America. Because of the impacts that urbanization, agriculture, drainage, and industrialization, Everglades National Park was established because eventually society realized the significance of the ecosystem for being a source of fresh water for agriculture and people inhabiting South Florida and the numerous other resources it provides. This theme can be found throughout the purpose, foundation, and enabling legislation of what established Everglades National Park and is a theme that is commonly found on the waysides, exhibits, publications, and text throughout the park.\n \nFoundation, Enabling Legislation, and Purpose Statement: \na) FINDINGS.\u2014The Congress makes the following findings: \n(1) The Everglades National Park is a nationally and internationally significant resource and the park has been adversely affected and continues to be adversely affected by external \nfactors which have altered the ecosystem including the natural hydrologic conditions within the park. \n\nFoundation Statement:\nEverglades National Park preserves part of the remaining Everglades ecosystem, a vast \"River of Grass\" that originally extended from its headwaters in the Kissimmee Chain of Lakes through Lake Okeechobee and into the Water Conservation Areas and Everglades National Park, including the coastline of the Gulf of America and Florida Bay. A diverse biological community thrives in the park within an expansive patterned wetland in a subtropical climate. The park encompasses 1,509,000 acres, including the largest legislated wilderness area (1,296,500 acres) east of the Rocky Mountains.\n\nFrom initial settlement by American Indian tribes about 6,000 years ago to more recent use of Everglades resources throughout the 20th century, the story of Everglades National Park includes links between natural resources and human use (both historic and prehistoric) of the area.\n\nPublic concern regarding regional development and ecosystem degradation has galvanized efforts among various governmental and nongovernmental organizations to work toward a balanced and sustainable South Florida ecosystem.\n\nA wide variety of recreational opportunities is available to visitors. Popular activities include wildlife viewing, nature hikes, fishing, camping, bicycling, motor boating, and canoeing. The 99-mile-long Wilderness Waterway that runs through the western part of the park offers outstanding backcountry boating and camping experiences.\n\nPurpose Statement: \nThe purpose statement identifies the specific reason(s) for establishment of a particular park. Everglades National Park was established when the enabling legislation adopted by Congress was signed into law on May 30, 1934. The purpose statement lays the foundation for understanding what is most important about the park.\n\nEverglades National Park preserves the largest subtropical wilderness in the nation, a vast natural area in the southern Everglades and Florida Bay known throughout the world for its unparalleled ecological values, natural hydrologic conditions, vibrant cultural heritage, and unique recreational and educational opportunities.\n----\n\nThe follow abreviations define the catalog of images that were collected that we are submitting for review by their filename. The first two letters define the type of potentially controversial/disparaging story which are followed by the abbreviation of the location. (Ex: HD.ECVC.01.jpg = Human Development story at Ernest F. Coe Visitor Center)\n\nStory:\nHD - Human Development : In the past 150 years, South Florida history involves mass urban development of the regional miami area, flood mitigation, canals to drain the \"swamp\" for agriculture. Although the intent of the peoples of the past were not to blatantly destroy the Everglades Ecosystem, these development strategies made lasting impacts on the landscape and through time societies values changed when they realized that Miami's drinking water and so many other resources for human habitation were directly related to the health of the Everglades Ecosystem.\n\nEN - Endangered Species: The Greater Everglades was reknown historically for it's abundance of wildlife. Through habitat loss, habitat fragmentation, poaching, hunting, altered landscapes and pollution human development of South Florida has had a negative impact on the abundance of species that existed in the Greater Everglades.\n\nTR - Tribal Relations: The Native Americans of South Florida included the Tequesta and Calusa followed by the Miccosukee and Seminole Tribes. Through history there were several conflicts between early South Florida settlers and U.S. military forces in South Florida. \n\nLocations:\nECVC - Ernest F. Coe Visitor Center\nPIIS - Pine Island District"
+      },
+      {
+        "id": "789",
+        "status": "Submitted",
+        "issue": "IntExt:",
+        "action": "IntExt:",
+        "thumbnail": "/thumbnails/789.jpg",
+        "largeImage": "/images/789.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Several of Everglades National Park's stories could be conceived as being disparaging to the development of industrial America. Because of the impacts that urbanization, agriculture, drainage, and industrialization, Everglades National Park was established because eventually society realized the significance of the ecosystem for being a source of fresh water for agriculture and people inhabiting South Florida and the numerous other resources it provides. This theme can be found throughout the purpose, foundation, and enabling legislation of what established Everglades National Park and is a theme that is commonly found on the waysides, exhibits, publications, and text throughout the park.\n \nFoundation, Enabling Legislation, and Purpose Statement: \na) FINDINGS.\u2014The Congress makes the following findings: \n(1) The Everglades National Park is a nationally and internationally significant resource and the park has been adversely affected and continues to be adversely affected by external \nfactors which have altered the ecosystem including the natural hydrologic conditions within the park. \n\nFoundation Statement:\nEverglades National Park preserves part of the remaining Everglades ecosystem, a vast \"River of Grass\" that originally extended from its headwaters in the Kissimmee Chain of Lakes through Lake Okeechobee and into the Water Conservation Areas and Everglades National Park, including the coastline of the Gulf of America and Florida Bay. A diverse biological community thrives in the park within an expansive patterned wetland in a subtropical climate. The park encompasses 1,509,000 acres, including the largest legislated wilderness area (1,296,500 acres) east of the Rocky Mountains.\n\nFrom initial settlement by American Indian tribes about 6,000 years ago to more recent use of Everglades resources throughout the 20th century, the story of Everglades National Park includes links between natural resources and human use (both historic and prehistoric) of the area.\n\nPublic concern regarding regional development and ecosystem degradation has galvanized efforts among various governmental and nongovernmental organizations to work toward a balanced and sustainable South Florida ecosystem.\n\nA wide variety of recreational opportunities is available to visitors. Popular activities include wildlife viewing, nature hikes, fishing, camping, bicycling, motor boating, and canoeing. The 99-mile-long Wilderness Waterway that runs through the western part of the park offers outstanding backcountry boating and camping experiences.\n\nPurpose Statement: \nThe purpose statement identifies the specific reason(s) for establishment of a particular park. Everglades National Park was established when the enabling legislation adopted by Congress was signed into law on May 30, 1934. The purpose statement lays the foundation for understanding what is most important about the park.\n\nEverglades National Park preserves the largest subtropical wilderness in the nation, a vast natural area in the southern Everglades and Florida Bay known throughout the world for its unparalleled ecological values, natural hydrologic conditions, vibrant cultural heritage, and unique recreational and educational opportunities.\n----\n\nThe follow abreviations define the catalog of images that were collected that we are submitting for review by their filename. The first two letters define the type of potentially controversial/disparaging story which are followed by the abbreviation of the location. (Ex: HD.ECVC.01.jpg = Human Development story at Ernest F. Coe Visitor Center)\n\nStory:\nHD - Human Development : In the past 150 years, South Florida history involves mass urban development of the regional miami area, flood mitigation, canals to drain the \"swamp\" for agriculture. Although the intent of the peoples of the past were not to blatantly destroy the Everglades Ecosystem, these development strategies made lasting impacts on the landscape and through time societies values changed when they realized that Miami's drinking water and so many other resources for human habitation were directly related to the health of the Everglades Ecosystem.\n\nEN - Endangered Species: The Greater Everglades was reknown historically for it's abundance of wildlife. Through habitat loss, habitat fragmentation, poaching, hunting, altered landscapes, the introduction of invasive species and pollution human development of South Florida has had a negative impact on the abundance of species that existed in the Greater Everglades.\n\nTR - Tribal Relations: The Native Americans of South Florida included the Tequesta and Calusa followed by the Miccosukee and Seminole Tribes. Through history there were several conflicts between early South Florida settlers and U.S. military forces in South Florida. \n\nLocations:\nSVVC - Shark Valley Visitor Center\nSHVA - Shark Valley District"
+      },
+      {
+        "id": "790",
+        "status": "Submitted",
+        "issue": "IntExt: \n\nPublications: \nText",
+        "action": "IntExt: \n\n\n\nPublications: \nText",
+        "thumbnail": "/thumbnails/790.jpg",
+        "largeImage": "/images/790.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "Several of Everglades National Park's stories could be conceived as being disparaging to the development of industrial America. Because of the impacts that urbanization, agriculture, drainage, and industrialization, Everglades National Park was established because eventually society realized the significance of the ecosystem for being a source of fresh water for agriculture and people inhabiting South Florida and the numerous other resources it provides. This theme can be found throughout the purpose, foundation, and enabling legislation of what established Everglades National Park and is a theme that is commonly found on the waysides, exhibits, publications, and text throughout the park.\n \nFoundation, Enabling Legislation, and Purpose Statement: \na) FINDINGS.\u2014The Congress makes the following findings: \n(1) The Everglades National Park is a nationally and internationally significant resource and the park has been adversely affected and continues to be adversely affected by external \nfactors which have altered the ecosystem including the natural hydrologic conditions within the park. \n\nFoundation Statement:\nEverglades National Park preserves part of the remaining Everglades ecosystem, a vast \"River of Grass\" that originally extended from its headwaters in the Kissimmee Chain of Lakes through Lake Okeechobee and into the Water Conservation Areas and Everglades National Park, including the coastline of the Gulf of America and Florida Bay. A diverse biological community thrives in the park within an expansive patterned wetland in a subtropical climate. The park encompasses 1,509,000 acres, including the largest legislated wilderness area (1,296,500 acres) east of the Rocky Mountains.\n\nFrom initial settlement by American Indian tribes about 6,000 years ago to more recent use of Everglades resources throughout the 20th century, the story of Everglades National Park includes links between natural resources and human use (both historic and prehistoric) of the area.\n\nPublic concern regarding regional development and ecosystem degradation has galvanized efforts among various governmental and nongovernmental organizations to work toward a balanced and sustainable South Florida ecosystem.\n\nA wide variety of recreational opportunities is available to visitors. Popular activities include wildlife viewing, nature hikes, fishing, camping, bicycling, motor boating, and canoeing. The 99-mile-long Wilderness Waterway that runs through the western part of the park offers outstanding backcountry boating and camping experiences.\n\nPurpose Statement: \nThe purpose statement identifies the specific reason(s) for establishment of a particular park. Everglades National Park was established when the enabling legislation adopted by Congress was signed into law on May 30, 1934. The purpose statement lays the foundation for understanding what is most important about the park.\n\nEverglades National Park preserves the largest subtropical wilderness in the nation, a vast natural area in the southern Everglades and Florida Bay known throughout the world for its unparalleled ecological values, natural hydrologic conditions, vibrant cultural heritage, and unique recreational and educational opportunities.\n----\n\nThe follow abreviations define the catalog of images that were collected that we are submitting for review by their filename. The first two letters define the type of potentially controversial/disparaging story which are followed by the abbreviation of the location. (Ex: HD.ECVC.01.jpg = Human Development story at Ernest F. Coe Visitor Center)\n\nStory:\nHD - Human Development : In the past 150 years, South Florida history involves mass urban development of the regional miami area, flood mitigation, canals to drain the \"swamp\" for agriculture. Although the intent of the peoples of the past were not to blatantly destroy the Everglades Ecosystem, these development strategies made lasting impacts on the landscape and through time societies values changed when they realized that Miami's drinking water and so many other resources for human habitation were directly related to the health of the Everglades Ecosystem.\n\nEN - Endangered Species: The Greater Everglades was reknown historically for it's abundance of wildlife. Through habitat loss, habitat fragmentation, poaching, hunting, altered landscapes and pollution human development of South Florida has had a negative impact on the abundance of species that existed in the Greater Everglades.\n\nTR - Tribal Relations: The Native Americans of South Florida included the Tequesta and Calusa followed by the Miccosukee and Seminole Tribes. Through history there were several conflicts between early South Florida settlers and U.S. military forces in South Florida. \n\nLocations:\nSFNRC - Science publications that are produced for the South Florida Natural Resource Center, and are distributed upon requests\nVC - Publications that are provided from the visitor center upon requests from a VC\nEDU - Publications that are provided by the Education Teams, specifically to teachers that are joining workshops."
+      },
+      {
+        "id": "793",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nPhotograph",
+        "action": "IntExt: \n\n\nPhotograph:Revise\n\n\n\nText:Revise",
+        "thumbnail": "/thumbnails/793.jpg",
+        "largeImage": "/images/793.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Several of Everglades National Park's stories could be conceived as being disparaging to the development of industrial America. Because of the impacts that urbanization, agriculture, drainage, and industrialization, Everglades National Park was established because eventually society realized the significance of the ecosystem for being a source of fresh water for agriculture and people inhabiting South Florida and the numerous other resources it provides. This theme can be found throughout the purpose, foundation, and enabling legislation of what established Everglades National Park and is a theme that is commonly found on the waysides, exhibits, publications, and text throughout the park.\n \nFoundation, Enabling Legislation, and Purpose Statement: \na) FINDINGS.\u2014The Congress makes the following findings: \n(1) The Everglades National Park is a nationally and internationally significant resource and the park has been adversely affected and continues to be adversely affected by external \nfactors which have altered the ecosystem including the natural hydrologic conditions within the park. \n\nFoundation Statement:\nEverglades National Park preserves part of the remaining Everglades ecosystem, a vast \"River of Grass\" that originally extended from its headwaters in the Kissimmee Chain of Lakes through Lake Okeechobee and into the Water Conservation Areas and Everglades National Park, including the coastline of the Gulf of America and Florida Bay. A diverse biological community thrives in the park within an expansive patterned wetland in a subtropical climate. The park encompasses 1,509,000 acres, including the largest legislated wilderness area (1,296,500 acres) east of the Rocky Mountains.\n\nFrom initial settlement by American Indian tribes about 6,000 years ago to more recent use of Everglades resources throughout the 20th century, the story of Everglades National Park includes links between natural resources and human use (both historic and prehistoric) of the area.\n\nPublic concern regarding regional development and ecosystem degradation has galvanized efforts among various governmental and nongovernmental organizations to work toward a balanced and sustainable South Florida ecosystem.\n\nA wide variety of recreational opportunities is available to visitors. Popular activities include wildlife viewing, nature hikes, fishing, camping, bicycling, motor boating, and canoeing. The 99-mile-long Wilderness Waterway that runs through the western part of the park offers outstanding backcountry boating and camping experiences.\n\nPurpose Statement: \nThe purpose statement identifies the specific reason(s) for establishment of a particular park. Everglades National Park was established when the enabling legislation adopted by Congress was signed into law on May 30, 1934. The purpose statement lays the foundation for understanding what is most important about the park.\n\nEverglades National Park preserves the largest subtropical wilderness in the nation, a vast natural area in the southern Everglades and Florida Bay known throughout the world for its unparalleled ecological values, natural hydrologic conditions, vibrant cultural heritage, and unique recreational and educational opportunities.\n----\n\nThe follow abreviations define the catalog of images that were collected that we are submitting for review by their filename. The first two letters define the type of potentially controversial/disparaging story which are followed by the abbreviation of the location. (Ex: HD.ECVC.01.jpg = Human Development story at Ernest F. Coe Visitor Center)\n\nStory:\nHD - Human Development : In the past 150 years, South Florida history involves mass urban development of the regional miami area, flood mitigation, canals to drain the \"swamp\" for agriculture. Although the intent of the peoples of the past were not to blatantly destroy the Everglades Ecosystem, these development strategies made lasting impacts on the landscape and through time societies values changed when they realized that Miami's drinking water and so many other resources for human habitation were directly related to the health of the Everglades Ecosystem.\n\nEN - Endangered Species: The Greater Everglades was reknown historically for it's abundance of wildlife. Through habitat loss, habitat fragmentation, poaching, hunting, altered landscapes and pollution human development of South Florida has had a negative impact on the abundance of species that existed in the Greater Everglades.\n\nTR - Tribal Relations: The Native Americans of South Florida included the Tequesta and Calusa followed by the Miccosukee and Seminole Tribes. Through history there were several conflicts between early South Florida settlers and U.S. military forces in South Florida. \n\nCC - Climate Change: The Flamingo district is particularly susceptible to the impacts of climate change and sea level rise due to its low elevation and coastal location. The increase of more powerful hurricanes and flooding events has taken a toll on the region. \n\nLocations:\nGBVC - Guy Bradley Visitor Center, Flamingo District"
+      },
+      {
+        "id": "809",
+        "status": "Submitted",
+        "issue": "Film: \nScript",
+        "action": "Film: \n\n\nScript:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": null
+      }
+    ]
+  },
+  {
+    "code": "LOWE",
+    "name": "Lowell National Historical Park",
+    "lat": 42.6377984,
+    "lon": -71.311885,
+    "items": [
+      {
+        "id": "714",
+        "status": "Submitted",
+        "issue": "Film: Script\nIllustration\nAnimation",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/714.jpg",
+        "largeImage": "/images/714.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "Films would not upload to reporting tool. To request the videos please reach out to the park \n\n1. OCMC Cultural Expression (Attachment: 1 \u2013 Cultural Expression) \n\na. Video 2, Image of a newspaper \u2013 critique of slave owners (Attachment: 1a \u2013 Video 2) \n\nb. Video 4, Image of Lowell Offering \u2013 description of burning Native Americans (Attachment: 1b \u2013 Video 4) \n\n2. OCMC Adapt (Attachment: 2 - Adapt \n\na. Video 1 \u2013 addresses treatment of Native Americans (No attachment) \n\nb. Video 2 \u2013 images of enslaved people (No attachment) \n\nc. Video 3 \u2013 addresses treatment of indentured servants  \n\n3. Lowell: The Continuing Revolution \u2013 critique of harm caused by industrial byproducts and exploitation of natural resources around the 1:30 and 12:30 marks (URL: https://www.youtube.com/watch?v=HdVU85zBZXE) \n\n4. Wheels of Change \u2013 primary and secondary source material that may be viewed as critiques of Gilded Age Americans and industry throughout the film (No attachment) \n\n5. Workers Remember \u2013 first person stories of poor treatment of factory workers (No attachment)"
+      },
+      {
+        "id": "718",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "1. Damming in the Merrimack \u2013 Critiques of industrial exploitation of natural resources. (Attachment: 1 \u2013 Damming the Merrimack) \n\n2. Lighting Lowell \u2013 Critiques of harm caused by industrial byproducts (Attachment: 2 \u2013 Lighting Lowell) \n\n3. Little Canada \u2013 Critique of destruction caused by urban renewal projects (Attachment: 3 \u2013 Little Canada) \n\n4. Mile of Mills \u2013 Addresses the closing of the mills as a symbol of failure (Attachment: 4 \u2013 Mile of Mills) \n\n5. \u201cQuiet as the Grave\u201d \u2013 Civil war critiques and images of enslaved people (Attachment: 5 \u2013 Quiet as the Grave\u201d) \n\n6. River of Death \u2013 Critique of harm caused by poor sanitation and industrial byproducts (Attachment: 6 \u2013 River of Death) \n\n7. The Acre\u2019s Irish \u2013 Reference to a Yankee mob attacking an immigrant group (Attachment: 7 \u2013 The Acres Irish) \n\n8. Using the Merrimack \u2013 Critique of industrial exploitation of natural resources (Attachment: 8 \u2013 Using the Merrimack) \n\n9. The Concord River \u2013 Critique of harm caused to Native Americans by English settlement of the area (Attachment: 9 \u2013 The Concord River)"
+      },
+      {
+        "id": "729",
+        "status": "Submitted",
+        "issue": "IntExt: Text\nIllustration",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/729.jpg",
+        "largeImage": "/images/729.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "1. Boott 2nd Floor Interactive \u2013 language used to describe treatment of enslaved people (Attachments: 01a \u2013 Boott 2nd Floor; 01b \u2013 Boott 2nd Floor; and 01c \u2013 Boott 2nd Floor) \n\n2. Boott 2nd Floor \u2013 language used to describe slave owners (Attachments: 02a \u2013 Boott 2nd Floor and 02b \u2013 Boott 2nd Floor) \n\n3. Boott 2nd Floor \u2013 treatment of workers by mill owners, using the threat of losing their job to influence how they would vote (Attachments: 03a \u2013 Boott 2nd Floor and 02b \u2013 Boott 2nd Floor) \n\n4. Boott 2nd Floor \u2013 language used to describe profit over treatment of workers (Attachments: 04a \u2013 Boott 2nd Floor and 04b \u2013 Boott 2nd Floor) \n\n5. Boott 2nd Floor \u2013 language used to describe actions of mill owners (Attachments: 05a \u2013 Boott 2nd Floor and 05b \u2013 Boott 2nd Floor) \n\n6. Boott 2nd Floor \u2013 language used to describe actions of mill owners (Attachments: 06a \u2013 Boott 2nd Floor and 05a \u2013 Boott 2nd Floor) \n\n7. Boott 2nd Floor \u2013 language used to describe textile industry and profit over treatment of workers (Attachments: 07a \u2013 Boott 2nd Floor; 07b \u2013 Boott 2nd Floor; and 07c \u2013 Boott 2nd Floor) \n\n8. Boott 2nd Floor Interactive \u2013 Political cartoon critiquing behavior of mill owners (Attachments: 08a \u2013 Boott 2nd Floor and 09b \u2013 Boott 2nd Floor) \n\n9. Boott 2nd Floor Interactive \u2013 Political cartoon critiquing behavior of mill owners (09a \u2013 Boott 2nd Floor and 08a \u2013 Boott 2nd Floor) \n\n10. Boott 2nd Floor Interactive \u2013 references police brutality with little context (Attachments: 10a \u2013 Boott 2nd Floor and 08a \u2013 Boott 2nd Floor) \n\n11. Boott 2nd Floor \u2013 language used to insinuate racial profiling used in hiring practices (Attachments: 11a \u2013 Boott 2nd Floor and 11b \u2013 Boott 2nd Floor) \n\n12. Visitor Center \u2013 language that may disparage industrialization (Attachment: 12 \u2013 Visitor Center)  \n\n13. Visitor Center \u2013 Critique of industrial exploitation of natural resources (Attachment: 13 \u2013 Visitor Center) \n\n14. Boardinghouse \u2013 language used to describe mill owners (Attachments: 14a \u2013 Boardinghouse and 14b \u2013 Boardinghouse) \n\n15. Suffolk Mill \u2013 language used to describe actions of settlers (Attachments 15a \u2013 Suffolk Mill and 15b \u2013 Suffolk Mill) \n\n16. One City, Many Cultures \u2013 language around settlers\u2019 treatment of indentured workers (Attachments: 16a \u2013 OCMC and 16b \u2013 OCMC) \n\n17. One City, Many Cultures \u2013 language around treatment of new immigrants (Attachments: 17a \u2013 OCMC and 17b \u2013 OCMC) \n\n18. One City, Many Cultures \u2013 language around Yankee settlers\u2019 treatment of newer immigrant groups (Attachments: 18a \u2013 OCMC and 18b \u2013 OCMC) \n\n19. One City, Many Cultures \u2013 language around treatment of new immigrant groups (Attachments: 19 \u2013 OCMC and 18b \u2013 OCMC) \n\n20. One City. Many Cultures Timeline \u2013 language around treatment of Native Americans by early settlers (Attachments: 20 \u2013 OCMC) \na. Attachment: 20a \u2013 OCMC \nb. Attachment: 20b \u2013 OCMC \nc. Attachment: 20c \u2013 OCMC  \nd. Attachment: 20d \u2013 OCMC \n\n21. One City, Many Cultures \u2013 language around treatment of Native Americans by early settlers (Attachments: 21a \u2013 OCMC; 21b \u2013 OCMC; and 20 \u2013 OCMC) \n\n22. One City, Many Cultures \u2013 language around effect of urban renewal projects (Attachments: 23a \u2013 OCMC and 18b \u2013 OCMC) \n\n23. One City, Many Cultures \u2013 language disparaging Lowell/Americans and the socio-economic state at the time (Attachments: 24a \u2013 OCMC and 20 \u2013 OCMC)"
+      }
+    ]
+  },
+  {
+    "code": "CHAT",
+    "name": "Chattahoochee River National Recreation Area",
+    "lat": 34.1423643,
+    "lon": -84.0860627,
+    "items": [
+      {
+        "id": "728",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Review text ontent on waysides. Reference to land-hungry white settlement and land-hungry European settlers"
+      }
+    ]
+  },
+  {
+    "code": "ARCH",
+    "name": "Arches National Park",
+    "lat": 38.7331,
+    "lon": -109.5925,
+    "items": [
+      {
+        "id": "755",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel's subject is the effects of human-caused climate change already visible in the park. The park seeks guidance on whether this entire panel is within scope of Secretary's Order 3431 and should be covered or removed. Text reads: \n\n\"Data show that we have already changed our climate. Temperatures over the last 150 years have dramatically increased here, as in much of the southwestern United States. Precipitation patterns are also changing; some places are wetter or drier now and rains come at different times of year than they used to. Native species cannot adapt quickly enough to these changes. Some are weakening and succumbing to drought, like this pinyon tree. Other species may die out here entirely. Changing the human activities causing this climate disruption could prevent further impacts. What behavior would you be willing to change to protect native species here\u2014or where you live?\"\n\nInset text continues:\n\"Some native grasses, like Indian ricegrass, may not adapt quickly enough to survive higher average temperatures.\" and \"Milder winters let pine park beetles thrive. Drought-stressed trees cannot fight them off, so they die.\""
+      },
+      {
+        "id": "757",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/757.jpg",
+        "largeImage": "/images/757.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel's focus is on beautiful park landscapes. The park seeks guidance on whether the following inset text\u2014which describes the impact of dust, smoke, and pollution on the viewsheds\u2014is within scope of Secretary's Order 3431:\n\n\"Viewsheds are precious park resources, easily affected by activities outside park boundaries. Smoke from regional wildfires (shown here), dust storms, and air pollution can drastically reduce visibility. Policies that combat climate change, conserve soil, and reduce air pollutants can help to protect views\u2014both inside and outside of the park.\""
+      },
+      {
+        "id": "761",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/761.jpg",
+        "largeImage": "/images/761.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel's subject is a historic cabin and the family who once lived there. Inset text includes the following reference to the removal of Native Americans from the area:\n\n\"Continue down this trail to see evidence of Indigenous people, who lived and traveled here before being forced onto reservations.\"\n\nThe park seeks guidance on whether covering or removing the final five words of that text is advised."
+      },
+      {
+        "id": "762",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/762.jpg",
+        "largeImage": "/images/762.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel introduces visitors to some of the ongoing scientific research in the park. The park seeks guidance on whether an inset section's text referring to climate change is within scope of Secretary's Order 3431. The text reads:\n\n\"Park ecologists study plant communities to monitor their response to the changing climate. Some \"cool season\" grasses, like ricegrass, are already diminishing.\""
+      },
+      {
+        "id": "763",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/763.jpg",
+        "largeImage": "/images/763.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel discusses the link between publicity of the Moab area and increased tourism. The park seeks guidance on whether the text citing Ed Abbey's book, Desert Solitaire, is within scope of Secretary's Order 3431. That text reads:\n\n\"Edward Abbey was a ranger at this park in the 1950s. In 1968, he published this book about his experiences here. In it, he argued against allowing too many tourists into national parks. Ironically, his vivid descriptions inspired even more people to visit Arches.\""
+      },
+      {
+        "id": "764",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel refers to the natural beauty of this place, then discusses the presence of invasive species and graffiti at Arches. The park seeks guidance on whether such an acknowledgement is within scope of Secretary's Order 3431. The relevant text reads:\n\n\"Many of Arches' popular places show evidence of previous people's actions. You can help preserve the natural beauty of this spot by minimizing your impacts.\" \n\"Graffiti is hard to remove and can leave a scar on a rock forever. Commit to not marking on rocks anywhere in the park.\"\n\"Hikers can unknowingly carry non-native seeds into the park. Check your shoes and clothes and remove any \"hitchhiking\" seeds, stickers, or burrs. Pack them out of the park.\""
+      },
+      {
+        "id": "765",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/765.jpg",
+        "largeImage": "/images/765.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This panel introduces visitors to biological soil crust and its ecological services. The park seeks guidance on whether the text describing negative outcomes associated with loss of soil crusts is within scope of Secretary's Order 3431. The text reads:\n\n\"Living soil crusts are as fragile as they are essential. One footstep destroys decades of growth. You won't see much soil crust around Arches' popular areas.\"\n\"Living soil crusts support desert plants, yet one step can crush them.\"\n\"Soil crust holds this place in place. Without it, soil blows away, leaving less for plants to grow in. The resulting dust storms create unhealthy air quality and cover the snowpack on local mountains. The darkened snow melts too quickly, reducing the community's water supply in the dry season. Protecting living soilds preserves healthy communities.\""
+      }
+    ]
+  },
+  {
+    "code": "MORR",
+    "name": "Morristown National Historical Park",
+    "lat": 40.7968,
+    "lon": -74.4601,
+    "items": [
+      {
+        "id": "795",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "This is for a new wayside exhibit panel that has yet to be fabricated. To ensure the sign conforms to SO3431, the following text changes are suggested:\n\nExisting Text: \"It took a lot of paid servants and enslaved people to support a large household in the 1700s. The Ford family enslaved at least three people to provide labor for them on this farm. An unknown number of enslaved people worked in the Continental Army\u2019s headquarters. Hannah and Isaac Till were two of them.\n\nTheir enslavers were Reverend John Mason and Captain John Johnson. General George Washington rented the couple from these men to work at the Ford Mansion.\"\n\n\nRevised Text: \"It took a number of paid servants and individuals held in slavery to support a large household in the 1700s. The Ford family relied on at least three such individuals to provide labor on this farm. An unknown number of people in bondage also worked at the Continental Army\u2019s headquarters. Hannah and Isaac Till were among them.\n\nThey were owned by Reverend John Mason and Captain John Johnson. General George Washington arranged to rent the couple from these men to work at the Ford Mansion.\""
+      },
+      {
+        "id": "798",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "New wayside exhibit yet to be fabricated. To ensure compliance with SO3431, suggested text changes for inset sign text as follows:\n\nOriginal Text:\n\nA STATUE WITH MANY STORIES\n\nOne statue can tell many different stories. It all depends on your personal perspective.\n\nThe English might see it as praising a traitor who turned his back on his homeland and caused the loss of British territory in North America.\n\nAfrican Americans could see this statute as honoring a man who owned 123 enslaved people and controlled the lives of an additional 153 dower slaves from the Custis estate. A man whose wealth was created by the work of enslaved people.\n\nNative Americans could look at the statute as a tribute to a man they called \u201cTown-Destroyer\u201d who ordered the destruction of the homes and crops of the Iroquois Nation during the American Revolution. A President who was responsible for the loss of Indigenous land in Ohio.\n\nMiss Clark wanted to remind people of George Washington\u2019s connection to Morristown. Many people admire George Washington as a Patriot. Many see him as a Founding Father who helped create the United States of America.\n\nWhat do you see in this statue?\n\n\nRevised Text: \n\nTHE MEANING OF A MONUMENT\nPeople build statues to honor those who have shaped history. They serve as reminders of the past \u2014 of people, places, and values that communities chose to remember.\n\nWhen this statue was dedicated in 1928, it was meant to celebrate George Washington\u2019s connection to Morristown, where he spent two critical winters during the Revolutionary War. At the time, many Americans viewed Washington as the central figure in the founding of the United States\u2014a symbol of courage, leadership, and unity.\n\nFor generations, statues like this one have helped tell the story of America\u2019s beginnings. Many visitors still see Washington as a patriot, a visionary leader, and the first president of a new nation.\n\nBut as time passes, history is not only remembered \u2014 it is re-examined. People today may bring new perspectives to familiar stories. They may ask different questions than those asked in 1928. Interpretations of historical figures like Washington can shift as we learn more about the full context of their lives, their decisions, and the world they lived in.\n\nThat doesn\u2019t mean the past changes \u2014 it means our understanding of it deepens. Statues, like history itself, can invite reflection.\n\nWhat does this statue mean to you today?"
+      }
+    ]
+  },
+  {
+    "code": "ZION",
+    "name": "Zion National Park",
+    "lat": 37.3221673,
+    "lon": -113.0047934,
+    "items": [
+      {
+        "id": "892",
+        "status": "Submitted",
+        "issue": "IntExt: \nText\nPublications: \nText",
+        "action": "IntExt: \n\n\n\n\nText:Revise\nPublications: \nText:Revise",
+        "thumbnail": "/thumbnails/892.jpg",
+        "largeImage": "/images/892.jpg",
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "Interior/Exterior Exhibits\n1. Leave No Trace exhibit in Zion Nature Center. Discusses natural features but does not emphasize beauty, abundance, or grandeur.\n\nSigns and Waysides\n1. \"Pollinators in Peril\" wayside. Discusses natural feature (pollinators) but does not emphasize beauty, abundance, or grandeur. Instead refers to their endangerment.\n2. \"Controlling the River\" wayside. Discusses natural feature (Virgin River) but does not emphasize beauty, abundance, or grandeur. Instead refers somewhat negatively to the history of humans altering the river.\n3. \"Big Floods\" wayside. Discusses natural feature (Virgin River) but does not emphasize beauty, abundance, or grandeur. Instead discusses the results of catastrophic flooding. Ultimately, I view this as within SO 3431 guidance since flash floods are an awe-inspiring natural feature of the river even though their effects are negative.\n4. \"Prescribed Burn\" wayside.  Discusses natural feature but does not emphasize beauty, abundance, or grandeur. Instead discusses the negative results of suppressing naturally occuring fires.\n5. \"Diverting the Dam\" wayside. Discusses natural feature (Virgin River) but does not emphasize beauty, abundance, or grandeur. Instead refers negatively to humans \"manipulating\" the river.\n6. \"Flash Flood Potential\" wayside. Discusses natural feature (Virgin River) but does not emphasize beauty, abundance, or grandeur. Instead discusses the potential for dangerous flash floods. Ultimately, I view this as within SO 3431 guidance since this is intended as a safety message.\n7. \"Temple of Sinawava\" wayside. Discusses natural feature (Temple of Sinawava area) but does not emphasize beauty, abundance, or grandeur. Instead discusses the potential for dangerous flash floods. Ultimately, I view this as within SO 3431 guidance since this is intended as a safety message."
+      }
+    ]
+  },
+  {
+    "code": "THRO",
+    "name": "Theodore Roosevelt National Park",
+    "lat": 46.9738,
+    "lon": -103.5256,
+    "items": [
+      {
+        "id": "998",
+        "status": "Submitted",
+        "issue": "No issue specified",
+        "action": "Remove or alter",
+        "thumbnail": "/thumbnails/998.jpg",
+        "largeImage": "/images/998.jpg",
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "\"More than 70 percent of the native grasslands\u00a0on the Great Plains\u00a0have been lost to agriculture and development.\" \n\n\"Once common on the Great Plains, prairie dogs are absent from most of their historic range. Hunting, trapping, poisoning, disease, and habitat destruction have contributed to the decline of these curious ground squirrels.\"\n\n\"Roosevelt witnessed the demise of open-range grazing and took part in the over-hunting of wild game. Reflecting on these experiences awoke his passion for protecting natural resources and wild places.\""
+      },
+      {
+        "id": "1069",
+        "status": "Submitted",
+        "issue": "Publications: Text\nIllustration",
+        "action": "Publications: Text\nIllustration",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": null,
+        "descriptionChanges": "Junior Ranger Book, page 6 of 13, Activity 4 of the document uploaded below. Three illustrations and the last two sentences of the final paragraph on the page may be in conflict with the SO. Options for change include 1) removal of the page from the Junior Ranger Book, or 2) editing of text and illustrations to bring into alignment wiht the SO. \n\nNote: THRO is listed under PWR \"LEGACY NPS REGION\" above. It should be MWR, but I am proceeding with this submission as annotated."
+      },
+      {
+        "id": "1070",
+        "status": "Submitted",
+        "issue": "Film: Script\nPhotograph\nSoundtrack",
+        "action": "Film: Script\nPhotograph\nSoundtrack",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "Park film published in 2011, shown in park visitor contact stations, minutes 13:58 - 15:05 (digital file attached below) addresses Theodore Roosevelt's conservation ethic in context of development, with images of oil and gas infrastructure. This content may be in conflict with the SO. A possible change would be to edit this segment out of the film, as there are audio and video transitions that may allow the before and after film to be merged with limited change to the film. \n\nNote: Theodore Roosevelt National Park (THRO) is listed under PWR above, rather than MWR. I am proceeding with this submission as annotated."
+      }
+    ]
+  },
+  {
+    "code": "CACH",
+    "name": "Canyon de Chelly National Monument",
+    "lat": 36.1433502,
+    "lon": -109.4416431,
+    "items": [
+      {
+        "id": "1032",
+        "status": "Submitted",
+        "issue": "Publications: \nIllustration",
+        "action": "Remove or alter",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "No suggestions, but open to your suggestions. Our brochures are printable, so we print as needed when the stock runs low."
+      },
+      {
+        "id": "1035",
+        "status": "Submitted",
+        "issue": "Film: \nScript",
+        "action": "Film: \nScript:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "We have one DVD film that briefly mentions the story of the Long Walk, which Canyon De Chelly National Monument is centered around. We have no suggestion for how to change it, but we're open to any suggestions. We would not like to change it if we had the option."
+      }
+    ]
+  },
+  {
+    "code": "NAVA",
+    "name": "Navajo National Monument",
+    "lat": 36.6842583,
+    "lon": -110.5362587,
+    "items": [
+      {
+        "id": "1034",
+        "status": "Submitted",
+        "issue": "Publications: \nText",
+        "action": "Publications: \nText:Revise",
+        "thumbnail": null,
+        "largeImage": null,
+        "filmProduced": null,
+        "publicationsProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "descriptionChanges": "No suggestions, but open to what you may have. We print more paper copies if needed. We do have a PDF file."
+      }
+    ]
+  },
+  {
+    "code": "FOLS",
+    "name": "Fort Larned National Historic Site",
+    "lat": 38.182069,
+    "lon": -99.2170511,
+    "items": [
+      {
+        "id": "1057",
+        "status": "Submitted",
+        "issue": "Film: \n\nPublications: \nText",
+        "action": "Film: \n\nPublications: \nText",
+        "thumbnail": "/thumbnails/1057.jpg",
+        "largeImage": "/images/1057.jpg",
+        "filmProduced": "Needs Review:  Contains content that may conflict with SO 3431 or EO 14253",
+        "publicationsProduced": null,
+        "descriptionChanges": "The park film is outdated and contains language pertaining to Native Americans that may violate SO 3414. \n\nhttps://doimspp-my.sharepoint.com/personal/cdixon_nps_gov/_layouts/15/stream.aspx?id=%2Fpersonal%2Fcdixon%5Fnps%5Fgov%2FDocuments%2F3%20Resources%2FGuardian%20of%20the%20Santa%20Fe%20Trail%2Em4v&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee58f4001%2Df5ed%2D482d%2Da5fb%2Db06a34d02e13&isDarkMode=false&mode=View&startedResponseCatch=true\n\n\nTwo park handouts also contain language that could be perceived as derogatory to Native Americans and violating SO 3414."
+      }
+    ]
+  }
+]
