@@ -4,6 +4,7 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import { Info, X, ExternalLink, MapPin } from 'lucide-react';
 import parksData from './data/parks.json';
+import cwpIcon from './assets/cwp_icon.svg';
 import './App.css';
 
 // Fix for default leaflet icons in React
@@ -26,20 +27,6 @@ const alertIcon = L.divIcon({
   iconSize: [24, 24],
   iconAnchor: [12, 12]
 });
-
-const CensoredArrowhead = ({ size = 28 }) => (
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width={size} height={size}>
-    {/* Outer brown arrowhead */}
-    <path d="M50 5 L85 25 Q90 50 80 90 L50 115 L20 90 Q10 50 15 25 Z" fill="#8B5A2B" stroke="#5A3A15" strokeWidth="2" />
-    {/* Inner green mountain shape just for detail */}
-    <path d="M35 50 L50 25 L65 50 Z" fill="#2E8B57" />
-    <path d="M25 70 L40 45 L55 70 Z" fill="#2E8B57" />
-    <path d="M45 70 L60 45 L75 70 Z" fill="#2E8B57" />
-    <path d="M20 90 Q40 85 50 85 T80 90 L50 115 Z" fill="#6B8E23" />
-    {/* The thick black censorship bar */}
-    <rect x="5" y="45" width="90" height="24" fill="#111111" />
-  </svg>
-);
 
 function MapUpdater({ selectedPark }) {
   const map = useMap();
@@ -68,7 +55,7 @@ function App() {
     <div className="app-container">
       <header className="header">
         <div className="logo-container">
-          <CensoredArrowhead size={32} />
+          <img src={cwpIcon} alt="CWP Logo" width={32} height={32} />
           <h1>Doug Burgum's National Park Censorship Map</h1>
         </div>
         <button className="about-btn" onClick={() => setShowAbout(true)}>
