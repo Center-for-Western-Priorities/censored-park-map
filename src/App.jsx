@@ -130,11 +130,6 @@ function App() {
                         <p>{item.issue}</p>
                       </div>
 
-                      <div className="target-field">
-                        <h4>Action Required</h4>
-                        <p>{item.action}</p>
-                      </div>
-
                       {item.filmProduced && item.filmProduced.toLowerCase() !== 'none' && (
                         <div className="target-field">
                           <h4>Film Produced</h4>
