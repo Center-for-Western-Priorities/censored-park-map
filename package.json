@@ -4,7 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predev": "node generate_csv.js",
     "dev": "vite",
+    "prebuild": "node generate_csv.js",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
